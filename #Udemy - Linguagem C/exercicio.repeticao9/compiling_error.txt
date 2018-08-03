@@ -1,0 +1,6 @@
+C:\Users\satan\Documents\Natalia\Desenvolvimento\Aulas\Udemy - Linguagem C\exercicio.repeticao9\main.c: In function 'main':
+C:\Users\satan\Documents\Natalia\Desenvolvimento\Aulas\Udemy - Linguagem C\exercicio.repeticao9\main.c:16:5: warning: implicit declaration of function 'clrscr' [-Wimplicit-function-declaration]
+     clrscr();
+     ^~~~~~
+C:\Users\satan\AppData\Local\Temp\ccuBwDT9.o:main.c:(.text+0x43): undefined reference to `clrscr'
+collect2.exe: error: ld returned 1 exit status

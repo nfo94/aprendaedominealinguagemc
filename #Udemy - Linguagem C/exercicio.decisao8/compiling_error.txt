@@ -1,0 +1,4 @@
+C:\Users\satan\Documents\Natalia\Desenvolvimento\Aulas\Udemy - Linguagem C\exercicio.decisao8\main.c: In function 'main':
+C:\Users\satan\Documents\Natalia\Desenvolvimento\Aulas\Udemy - Linguagem C\exercicio.decisao8\main.c:25:7: error: expected ';' before '{' token
+       {
+       ^
